@@ -7,31 +7,6 @@ import notifications from "../../assets/JsonData/notification.json";
 import user_menu from "../../assets/JsonData/user_menus.json";
 import { useSelector } from "react-redux";
 
-const renderNotificationItem = (item, index) => (
-  <div className="notification-item" key={index}>
-    <i className={item.icon}></i>
-    <span>{item.content}</span>
-  </div>
-);
-
-const renderUserToggle = (user) => (
-  <div className="topnav__right-user">
-    <div className="topnav__right-user__image">
-      <img src={`${user.image}`} alt="profile pic" />
-    </div>
-    <div className="topnav__right-user__name">{user.display_name}</div>
-  </div>
-);
-
-const renderUserMenu = (item, index) => (
-  <Link to={item.route} key={index}>
-    <div className="notification-item">
-      <i className={item.icon}></i>
-      <span>{item.content}</span>
-    </div>
-  </Link>
-);
-
 const Topnav = () => {
   const user_profile = useSelector((state) => state.UserReducer.data.profile);
 
@@ -39,6 +14,31 @@ const Topnav = () => {
     display_name: user_profile.name,
     image: user_profile.image_url,
   };
+
+  const renderNotificationItem = (item, index) => (
+    <div className="notification-item" key={index}>
+      <i className={item.icon}></i>
+      <span>{item.content}</span>
+    </div>
+  );
+
+  const renderUserToggle = (user) => (
+    <div className="topnav__right-user">
+      <div className="topnav__right-user__image">
+        <img src={`${user.image}`} alt="profile pic" />
+      </div>
+      <div className="topnav__right-user__name">{user.display_name}</div>
+    </div>
+  );
+
+  const renderUserMenu = (item, index) => (
+    <Link to={item.route} key={index}>
+      <div className="notification-item">
+        <i className={item.icon}></i>
+        <span>{item.content}</span>
+      </div>
+    </Link>
+  );
 
   return (
     <div className="topnav">
