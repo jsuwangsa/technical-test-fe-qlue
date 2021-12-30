@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Merlion",
+    "lat": 1.28692,
+    "lng": 103.85457,
+    "intro": "The Merlion is the national personification of Singapore",
+    "description":
+      "Its name contain 'mer' meaning the sea and 'lion'. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which mean 'sea town' in Javanese. The lion head represents Singapore original name-Singapura-meaning 'lion city' or 'kota singa'.",
+    "address": "10 Bayfront Avenue, Singapore",
+    "website": "http://www.marinabaysands.com",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Singapore_Skyline_2019-10.jpg"
+  },
+  {
+    "name": "Asian Civilisations Museum",
+    "lat": 1.287466,
+    "lng": 103.851424,
+    "intro":
+      "Housed in a historical building by the Singapore River, this museum tells the stories of Asian civilisations through its permanent collections.",
+    "description":
+      "With its mix of races and cultures, Singapore has rightfully earned a reputation for being the cultural melting pot of Asia. To showcase this diverse heritage, the Asian Civilisations Museum (ACM) takes you on a grand exploration of the people from around the region that have settled on our shores over the past two centuries.",
+    "address": "1 Empress Pl, Singapore 179555",
+    "website": "https://www.nhb.gov.sg/acm/",
+    "image": "https://www.visitsingapore.com/id_id/see-do-singapore/history/history-museums/asian-civilizations-museum/_jcr_content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg"
+  },
+  {
+    "name": "Clarke Quay",
+    "lat": 1.290555,
+    "lng": 103.846188,
+    "intro":
+      "Clarke Quay is a historical riverside quay in Singapore, located within the Singapore River Planning Area. The quay is situated upstream from the mouth of the Singapore River and Boat Quay.",
+    "description":
+      "Clarke Quay was named after Sir Andrew Clarke, Singapore's second Governor and Governor of the Straits Settlements from 1873 to 1875, who played a key role in positioning Singapore as the main port for the Malay states of Perak, Selangor and Sungei Ujong.Clarke Quay is also the name of a road along the quay, part of which has since been converted into a pedestrian mall. Clarke Street, located next to Clarke Quay, was officially named in 1896, and was originally two streets known simply as East Street and West Street in north Kampong Malacca. Similar to Clarke Quay, Clarke Street has since been converted into a pedestrian mall.",
+    "address": "3 River Valley Rd, Singapore 179024",
+    "website": "",
+    "image": "https://a.cdn-hotels.com/gdcs/production101/d1052/367fea06-e19a-4a9e-bd05-42e8b46fb8e6.jpg"
+  },
+  {
+    "name": "Fort Canning Park",
+    "lat": 1.295526,
+    "lng": 103.845331,
+    "intro":
+      "Whether you’re a history buff, music fan or nature lover, this historic landmark on a hill is full of surprises.",
+    "description":
+      "Imagine a place in Singapore where Malay royalty once ruled in medieval times, where the British decided to surrender to the invading Japanese during World War II (WWII), and more recently, some of the world’s biggest music acts played to rapt audiences. This unlikely combination of events has taken place at the hilltop of Fort Canning Park, one of the country’s historical landmarks. Situated in central Singapore, the hill is accessible from the famous shopping belt of Orchard Road, while the National Museum of Singapore sits just behind it.",
+    "address": "River Valley Rd, Singapore 179037",
+    "website": "",
+    "image": "https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX28459434.jpg"
+  },
+  {
+    "name": "Orchard Road",
+    "lat": 1.302279,
+    "lng": 103.837399,
+    "intro":
+      "Every shopper’s paradise. From luxury retail to world-class international cuisines, Singapore’s most famous shopping precinct is home to a wealth of experiences.",
+    "description":
+      "Orchard Road’s humble beginnings date back to the early 1830s, when it was an unnamed road home to fruit orchards, nutmeg plantations and pepper farms. In 1958, Orchard Road’s first department store—TANGS—was set up by local merchant C.K. Tang. Then known as House of Tangs, it marked the neighbourhood’s first step towards becoming Singapore’s most beloved shopping district. Orchard Road’s bustling boulevard is now a retail and dining paradise, with thousands of establishments offering the ultimate lifestyle experience to tourists and locals alike.",
+    "address": "",
+    "website": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Orchard_Road_street_sign_-_Singapore_%28gabbe%29.jpg"
+  },
+  {
+    "name": "Singapore Flyer",
+    "lat": 1.289332,
+    "lng": 103.863152,
+    "intro":
+      "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building.",
+    "description":
+      "The Flyer has an overall height of 165 metres (541 ft) and was the world's tallest Ferris wheel until the 167.6 m (550 ft) High Roller, which is slightly 2.6 m (9 ft) taller than the Flyer.[",
+    "address": "30 Raffles Ave, Singapore 039803",
+    "website": "https://www.singaporeflyer.com/en",
+    "image": "https://www.visitsingapore.com/id_id/see-do-singapore/recreation-leisure/viewpoints/singapore-flyer/_jcr_content/par-carousel/carousel_detailpage/carousel/item2.thumbnail.carousel-img.740.416.jpg"
+  },
+  {
+    "name": "Marina Bay Sands",
+    "lat": 1.283099,
+    "lng": 103.860295,
+    "intro":
+      "Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore, owned by the Las Vegas Sands Corporation.",
+    "description":
+      "Marina Bay Sands is one of two winning proposals for Singapore's first integrated resorts, the other being the Resorts World Sentosa, which incorporates a family-friendly Universal Studios Theme Park (Universal Studios Singapore). The two large-scale resorts were conceived to meet Singapore's economic and tourism objectives for the next decade and will have 30-year casino licenses, exclusive for the first ten years. Bidders were assessed based on four criteria: tourism appeal and contribution, architectural concept and design, development investment, and strength of the consortium and partners.",
+    "address": "10 Bayfront Avenue, Singapore 018956",
+    "website": "https://www.marinabaysands.com/",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg/1200px-Marina_Bay_Sands_in_the_evening_-_20101120.jpg"
+  },
+  {
+    "name": "Garden By The Bay",
+    "lat": 1.28179,
+    "lng": 103.863954,
+    "intro":
+      "The Gardens by the Bay is a nature park spanning 101 hectares in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden, Bay East Garden and Bay Central Garden. ",
+    "description":
+      "Gardens by the Bay was part of the nation's plans to transform its 'Garden City' to a 'City in a Garden', with the aim of raising the quality of life by enhancing greenery and flora in the city. First announced by Prime Minister Lee Hsien Loong at Singapore's National Day Rally in 2005, Gardens by the Bay was intended to be Singapore's premier urban outdoor recreation space and a national icon.Being a popular tourist attraction in Singapore, the park received 6.4 million visitors in 2014, while topping its 20 millionth visitor mark in November 2015 and over 50 million in 2018.",
+    "address": "18 Marina Gardens Dr, Singapore 018953",
+    "website": "https://www.gardensbythebay.com.sg/",
+    "image": "https://indonesiatraveler.id/wp-content/uploads/2020/03/Singapore-Garden-Bay-photo-by-Garden-by-the-Bay.jpg"
+  },
+  {
+    "name": "Chinatown",
+    "lat": 1.284193,
+    "lng": 103.843362,
+    "intro":
+      "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques dot the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars.",
+    "description":
+      "Singapore's Chinatown is known as Niu che shui (simplified Chinese: 牛车水; traditional Chinese: 牛車水; pinyin: Niúchēshuǐ; lit. 'ox car water') in Mandarin, Gû-chia-chúi in Hokkien and Ngàuh-chē-séui in Cantonese - all of which mean 'bullock water-cart' - and Kreta Ayer in Malay (Post-1972 spelling: kereta air), which means 'water cart'. This is due to the fact that Chinatown's water supply was principally transported by animal-driven carts in the 19th century. Although these names are sometimes used for referring to Chinatown in general, they actually refer to the area of Kreta Ayer Road",
+    "address": "29A/B Smith Street Singapore 058943",
+    "website": "https://chinatown.sg/",
+    "image": "https://live.staticflickr.com/8467/8079668861_87e84ce136_b.jpg"
+  }
+]
